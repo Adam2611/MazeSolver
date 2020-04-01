@@ -2,11 +2,8 @@
  * If yes, it replaces the path with + signs to mark the path. 
  * It also validates user input, meaning that it will not crash easily if invalid input is entered
  * Furthermore, it gives the user the option of creating another maze if the first is not solvable
- * Thanks for using this program!
- * ICS-4U1
- * Mr. Andanarajan
- * by: Adam Lam and Andrew Yue on October 12, 2018
- */
+
+
 
 import java.util.*;
 import java.io.*;                //importing relevant libraries
